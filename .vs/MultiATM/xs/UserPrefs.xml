@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{59E13AE1-11FA-4212-BD12-5DADB28C1385}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MultiATM/NativeLanguage.cs">
+    <Files>
+      <File FileName="MultiATM/Program.cs" Line="17" Column="54" />
+      <File FileName="MultiATM/ATM.cs" Line="1" Column="1" />
+      <File FileName="MultiATM/ATMLanguage.cs" Line="1" Column="1" />
+      <File FileName="MultiATM/EnglishLanguage.cs" Line="1" Column="1" />
+      <File FileName="MultiATM/NativeLanguage.cs" Line="4" Column="46" />
+      <File FileName="MultiATM/PidginLanguage.cs" Line="1" Column="1" />
+      <File FileName="MultiATM/TransferManager.cs" Line="1" Column="1" />
+      <File FileName="MultiATM/WithdrawManager.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MultiATM" expanded="True">
+            <Node name="MultiATM" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MultiATM PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

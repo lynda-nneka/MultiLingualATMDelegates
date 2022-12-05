@@ -1,0 +1,15 @@
+/Users/feranmi/Projects/MultiATM/MultiATM/bin/Debug/net7.0/MultiATM
+/Users/feranmi/Projects/MultiATM/MultiATM/bin/Debug/net7.0/MultiATM.deps.json
+/Users/feranmi/Projects/MultiATM/MultiATM/bin/Debug/net7.0/MultiATM.runtimeconfig.json
+/Users/feranmi/Projects/MultiATM/MultiATM/bin/Debug/net7.0/MultiATM.dll
+/Users/feranmi/Projects/MultiATM/MultiATM/bin/Debug/net7.0/MultiATM.pdb
+/Users/feranmi/Projects/MultiATM/MultiATM/obj/Debug/net7.0/MultiATM.csproj.AssemblyReference.cache
+/Users/feranmi/Projects/MultiATM/MultiATM/obj/Debug/net7.0/MultiATM.GeneratedMSBuildEditorConfig.editorconfig
+/Users/feranmi/Projects/MultiATM/MultiATM/obj/Debug/net7.0/MultiATM.AssemblyInfoInputs.cache
+/Users/feranmi/Projects/MultiATM/MultiATM/obj/Debug/net7.0/MultiATM.AssemblyInfo.cs
+/Users/feranmi/Projects/MultiATM/MultiATM/obj/Debug/net7.0/MultiATM.csproj.CoreCompileInputs.cache
+/Users/feranmi/Projects/MultiATM/MultiATM/obj/Debug/net7.0/MultiATM.dll
+/Users/feranmi/Projects/MultiATM/MultiATM/obj/Debug/net7.0/refint/MultiATM.dll
+/Users/feranmi/Projects/MultiATM/MultiATM/obj/Debug/net7.0/MultiATM.pdb
+/Users/feranmi/Projects/MultiATM/MultiATM/obj/Debug/net7.0/MultiATM.genruntimeconfig.cache
+/Users/feranmi/Projects/MultiATM/MultiATM/obj/Debug/net7.0/ref/MultiATM.dll
